@@ -4,23 +4,40 @@
   box-sizing: border-box;
 }
 
-html {
-  height: 237px;
-  width: 940px;
-  display: block;
-}
-
 body {
-  height: 171px;
-  width: 874px;
+  display: block;
+  font-size: 13px;
+  line-height: 18px;
+  margin: 33px;
+  font-family: verdana, arial, helvetica, sans-serif;
+  color: #333;
 }
 
-.h1 {
-  height: 18px;
-  width: 874px;
+
+h1 {
+  display: block;
+  width: 100%;
+  margin: 20px;
+  line-height: 18px;
+  font-size: 26px;
+  font-family: verdana, arial, helvetica, sans-serif;
 }
 
- .p{
-  height: 18px;
-  width: 874px;
+h2 {
+  display: block;
+  width: 100%;
+  margin: 20px;
+  line-height: 18px;
+  font-size: 26px;
+  font-family: verdana, arial, helvetica, sans-serif;
 }
+
+p {
+  display: block;
+  font-size: 13px;
+  line-height: 18px;
+  margin: 33px;
+  font-family: verdana, arial, helvetica, sans-serif;
+}
+
+

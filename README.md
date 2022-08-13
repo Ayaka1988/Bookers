@@ -1,24 +1,9 @@
 # README
+#Name:Bookers
+読書の感想を投稿するサイト
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+#概要
+読んだ本を投稿できリスト化できます。また情報の編集や不要な情報の削除ができます。
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+#作成者
+寺田彩可：44519
